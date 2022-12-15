@@ -13,7 +13,7 @@ Python3 is required as well as pip before running pre-requisite scripts.
 3. playsound > pip install playsound
 4. gTTs > pip install gTTS
 
-Check the current imported list if something is missing.
+Check the current imported list of modules if something is missing.
 
 I've made it for normal google search with another browser and movies/torrent search with another browser.
 Feel free to change anything.
