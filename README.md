@@ -6,9 +6,12 @@ It's a Debian Linux based Python Voice Assistant Project that is still in-proces
 
 Pre-requisite -
 
-1. SpeechRecognition > pip install SpeechRecognition
-2. playsound > pip install playsound
-3. gTTs > pip install gTTS
+Python3 is required as well as pip before running pre-requisite scripts.
+
+1. update repo > sudo apt update
+2. SpeechRecognition > pip install SpeechRecognition
+3. playsound > pip install playsound
+4. gTTs > pip install gTTS
 
 Check the current imported list if something is missing.
 
